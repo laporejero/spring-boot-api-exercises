@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pork Sisig",
+    "category": "Appetizer",
+    "price": 250.0,
+    "available": true
+  },
+  {
+    "name": "Lumpiang Shanghai",
+    "category": "Appetizer",
+    "price": 180.0,
+    "available": true
+  },
+  {
+    "name": "Chicken Adobo",
+    "category": "Main Course",
+    "price": 280.0,
+    "available": true
+  },
+  {
+    "name": "Sinigang na Baboy",
+    "category": "Main Course",
+    "price": 320.0,
+    "available": true
+  },
+  {
+    "name": "Beef Kare-Kare",
+    "category": "Main Course",
+    "price": 420.0,
+    "available": false
+  },
+  {
+    "name": "Halo-Halo",
+    "category": "Dessert",
+    "price": 150.0,
+    "available": true
+  },
+  {
+    "name": "Leche Flan",
+    "category": "Dessert",
+    "price": 120.0,
+    "available": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@example.com",
+    "department": "Engineering",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily.johnson@example.com",
+    "department": "Marketing",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.brown@example.com",
+    "department": "Finance",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Davis",
+    "email": "sarah.davis@example.com",
+    "department": "Human Resources",
+    "isDeleted": false
+  },
+  {
+    "firstName": "David",
+    "lastName": "Wilson",
+    "email": "david.wilson@example.com",
+    "department": "Sales",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Martinez",
+    "email": "jessica.martinez@example.com",
+    "department": "Engineering",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Taylor",
+    "email": "daniel.taylor@example.com",
+    "department": "Operations",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Anderson",
+    "email": "ashley.anderson@example.com",
+    "department": "Customer Support",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Thomas",
+    "email": "robert.thomas@example.com",
+    "department": "Legal",
+    "isDeleted": false
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Jackson",
+    "email": "jennifer.jackson@example.com",
+    "department": "Product",
+    "isDeleted": false
+  }
+]

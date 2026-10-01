@@ -1,0 +1,134 @@
+[
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780261103573",
+        "price": 549.0,
+        "id": 3
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "isbn": "9780590353427",
+        "price": 495.0,
+        "id": 4
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780446310789",
+        "price": 399.0,
+        "id": 5
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "price": 349.0,
+        "id": 6
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "price": 375.0,
+        "id": 7
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "9780316769488",
+        "price": 425.0,
+        "id": 8
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "isbn": "9780441172719",
+        "price": 599.0,
+        "id": 9
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9780141439518",
+        "price": 299.0,
+        "id": 10
+    },
+    {
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780261103580",
+        "price": 549.0,
+        "id": 11
+    },
+    {
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780261103597",
+        "price": 549.0,
+        "id": 12
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "isbn": "9780439064873",
+        "price": 495.0,
+        "id": 13
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "9780451526342",
+        "price": 299.0,
+        "id": 14
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": "9780060850524",
+        "price": 399.0,
+        "id": 15
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn": "9781451673319",
+        "price": 425.0,
+        "id": 16
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "isbn": "9780375842207",
+        "price": 499.0,
+        "id": 17
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780062315007",
+        "price": 380.0,
+        "id": 18
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "isbn": "9780156012195",
+        "price": 275.0,
+        "id": 19
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "isbn": "9780141439471",
+        "price": 299.0,
+        "id": 20
+    }
+]
+
+Controller  → handles HTTP requests
+Repository  → talks to the database
+Entity      → represents our data
+Exception   → describes what went wrong
+Handler     → turns the exception into an HTTP error response
